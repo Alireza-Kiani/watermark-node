@@ -1,0 +1,27 @@
+{
+  "name": "watermark-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alireza-Kiani/watermark-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alireza-Kiani/watermark-node/issues"
+  },
+  "homepage": "https://github.com/Alireza-Kiani/watermark-node#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
